@@ -16,7 +16,7 @@ Language:
 </a>
 
 <a href="https://github.com/meru-golang">
-  <img align="top" src="https://tryhackme.com/badge/461417" />
+  <script src="https://tryhackme.com/badge/461417"></script>
 </a>
 
 <a href="https://github.com/meru-golang">
