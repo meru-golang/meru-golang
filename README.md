@@ -16,10 +16,6 @@ Language:
 </a>
 
 <a href="https://github.com/meru-golang">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/merugolang.png?4" alt="TryHackMe">
-</a>
-
-<a href="https://github.com/meru-golang">
   <img align="center" src="https://readme-status-meru-golang.vercel.app/api?username=meru-golang&show_icons=true&count_private=true&theme=vue-dark" />
 </a>
 <a href="https://github.com/meru-golang">
