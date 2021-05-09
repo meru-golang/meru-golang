@@ -25,6 +25,3 @@ Language:
 <a href="https://github.com/meru-golang">
   <img align="center" src="https://readme-status-meru-golang.vercel.app/api/top-langs/?username=meru-golang&theme=vue-dark" />
 </a>
-<a href="https://github.com/meru-golang/BLEND">
-  <img align="center" src="https://readme-status-meru-golang.vercel.app/api/pin/?username=meru-golang&repo=BLEND&theme=vue-dark" />
-</a>
