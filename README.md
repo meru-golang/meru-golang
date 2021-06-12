@@ -6,10 +6,10 @@ age: 15
 hobby: programming,anime
 
 ## Links
-* [Twitter:](https://twitter.com/meru_golang)
-* [Instagram:](https://www.instagram.com/meru_golang/)
+* [Twitter:meru_golang](https://twitter.com/meru_golang)
+* [Instagram:meru_golang](https://www.instagram.com/meru_golang/)
 * Discord:める#0001
-* [TryHackMe:](https://tryhackme.com/p/merugolang)
+* [TryHackMe:merugolang](https://tryhackme.com/p/merugolang)
 
 
 Language:
