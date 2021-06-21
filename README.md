@@ -27,6 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meru-golang&show_icons=true&locale=en&layout=compact" alt="meru-golang" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meru-golang&show_icons=true&locale=en" alt="meru-golang" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meru-golang&show_icons=true&locale=en&count_private=true" alt="meru-golang" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meru-golang&" alt="meru-golang" /></p>
