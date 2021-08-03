@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/meru_golang" target="blank"><img src="https://img.shields.io/twitter/follow/meru_golang?logo=twitter&style=for-the-badge" alt="meru_golang" /></a> </p>
 
-- 🔭 I’m currently working on [BLEND](https://github.com/meru-golang/BLEND)
-
 - 🌱 I’m currently learning **Security**
 
 - 👨‍💻 All of my projects are available at [https://meru-golang.dev](https://meru-golang.dev)
